@@ -27,7 +27,7 @@ In my spare time, you can find me creating digital illustrations, reading fantas
 
 ## 🗣 Testimonials
 
-James Middlemiss, Senior Software Engineer:
+James Middlemiss, Senior Software Engineer at Valiant Finance:
 > "Carmen and I had the pleasure of working together for a year and a half from January 2019. In that time we worked closely as a small engineering team on several small and large scale projects within the company, building internal tools and API's for public use. Carmen's work ethic, eagerness to learn and passion for technology is second to none, making her an ideal colleague. Friendly and professional, Carmen is delightful to work with, and I would not hesitate to make her a colleague of mine again." 
 
 Joanne Harries, Founder of The Vet Equation:
