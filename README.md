@@ -3,19 +3,6 @@
 # Hi there, I'm Carmen. 👋
 
 Full stack Software Engineer with a passion for product design and UI/UX. I chat about tech, products, and engineering on Twitter at [@carmenhchung](https://twitter.com/carmenhchung) and on my personal website [here](https://www.carmenhchung.com).
-<!-- TWITTER:START -->
-- [@carmenhchung: Got some pretty exciting news for 2021, and have been working my way through these books in preparation... 👇
-
-Let me know if you have any other holiday read recommendations! 📚
-
-#Books #BookReviews #ProductManager #WomenInProduct #ProductManagement](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c3ea0ecc7ec8f198d9369c0ad0cb15d2d9d9d77f2a16e79df1c0f9367dd6ce4c01172158238c2)
-- [carmenhchung: RT @PierreDeWulf: I just discovered that Microsoft offers a 100% free alternative to HotJar 🔥
-
- …](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c3ea0ecc7ec8f198d9369c0ad0cb15d2d9d9d77f2a16e7ddb170c9360dc68e6c213791d8a3ec7)
-- [@PierreDeWulf: I just discovered that Microsoft offers a 100% free alternative to HotJar 🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2f36b7f3d0e7a31fb2936bc1ad0cb15d2d9d9d77f2a16974d71c0e9361dd6ee9c0137c118f33cc)
-- [@carmenhchung: I feel personally attacked. 😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c3ea0ecc7ec8f198d9369c0ad0cb15d2d9d9d77f2a16974d8150c9666dd6de8c6117b118b39c3)
-- [@carmenhchung: For those of you who voted for 5 people...that was the correct answer! 🥳 It only takes testing with 5 people for you to identify 85% of the product’s issues. So go on and find your 5 peeps!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c3ea0ecc7ec8f198d9369c0ad0cb15d2d9d9d77f2a1697ade1c0b9560d16de7c0157b128f38c6)
-<!-- TWITTER:END -->
 
 <p align="center"><a href="https://twitter.com/carmenhchung"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/carmenchung/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
