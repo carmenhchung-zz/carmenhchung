@@ -1,8 +1,10 @@
-![Carmen Chung Software Developer in Sydney](https://github.com/carmenhchung/carmenhchung/blob/main/carmen-chung-header.jpeg?raw=true)
+![Carmen Chung Software Developer in Sydney](https://github.com/carmenhchung/carmenhchung/blob/main/carmen-chung-pm-header.png?raw=true)
 
 # Hi there, I'm Carmen. 👋
 
-Full stack Software Engineer with a passion for product design and UI/UX. You can find me on Twitter at [@carmenhchung](https://twitter.com/carmenhchung). I also publish a free newsletter that contains case studies of some of the cool things that innovative tech platforms are doing. It's perfect for software developers, founders, product managers, digital marketers - and those interested in the future of tech: https://carmenchung.substack.com/
+Product Manager by day. Full stack Software Engineer by night. 
+
+I write a free weekly newsletter called *This Week In Tech*, covering the latest tech news here: https://thisweekintech.substack.com/ and you can find me on Twitter at [@carmenhchung](https://twitter.com/carmenhchung).
 
 <p align="center"><a href="https://twitter.com/carmenhchung"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/carmenchung/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
