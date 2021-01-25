@@ -15,7 +15,9 @@ I write a free weekly newsletter called *This Week In Tech*, covering the latest
 
 ## 📖 My Story
 
-I graduated with a Bachelor of Arts/Bachelor of Laws (with Honors) from the University of New South Wales, before working internationally as a corporate lawyer for seven years. In 2017, I discovered my passion for coding after being awarded the Women in Tech Scholarship to study at Coder Academy in Sydney, Australia. I am currently working as a full stack Software Engineer (Node & Vue.js) at CompliSpace.
+I graduated with a Bachelor of Arts/Bachelor of Laws (with Honors) from the University of New South Wales, before working internationally as a corporate lawyer for seven years. In 2017, I discovered my passion for coding after being awarded the Women in Tech Scholarship to study at Coder Academy in Sydney, Australia. 
+
+I was a full stack Software Engineer for three years at Valiant Finance and CompliSpace, before making the pivot into product management. I am currently a Product Manager at Linktree.
 
 My mission is to work collaboratively with others to solve real-world problems with fresh, creative tech solutions that follow industry best practices.
 
@@ -25,7 +27,7 @@ In 2020, I was selected as a Finalist in the Rising Technologist category of the
 
 I am a big believer in sharing knowledge about engineering, product and design. I regularly write published blog posts, and have spoken at a number of large-scale tech conferences, including ReactAU (Sydney, 2020), RubyConf (Melbourne, 2020), APIDays (Melbourne, 2019), and DDDSydney (Sydney, 2019). In addition, I run a YouTube channel called Code Fights, where developers try to solve coding challenges within 15 minutes.
 
-In my spare time, you can find me creating digital illustrations, reading fantasy novels, volunteering to build websites for charities through Vollie, teaching stretch classes, and fostering rescue dogs.
+In my spare time, you can find me creating digital illustrations, reading fantasy novels, volunteering to build websites for charities through Vollie, teaching stretch classes, fostering rescue dogs, and writing my newsletter *This Week In Tech*.
 
 ## 🗣 Testimonials
 
