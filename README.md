@@ -2,7 +2,7 @@
 
 # Hi there, I'm Carmen. 👋
 
-Product Manager by day @linktree. Full stack Software Engineer by night. 
+Senior Product Manager by day @linktree. Full stack Software Engineer by night. 
 
 I write a free weekly newsletter called *This Week In Tech*, covering the latest tech news here: https://thisweekintech.substack.com/ and you can find me on Twitter at [@carmenhchung](https://twitter.com/carmenhchung).
 
